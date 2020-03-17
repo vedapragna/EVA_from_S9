@@ -1,12 +1,14 @@
 # EVA_from_S9
 
 ### Experiment : 
-    To Train ResNet18 Model on Cifar10 Dataset using Albumentation Augmentations and plot the class activation map of the Model inferenced on sample Cifar10 image using GradCAM algorithm
+    To Train ResNet18 Model on Cifar10 Dataset using Albumentation Augmentations and plot the class activation
+    map of the Model inferenced on sample Cifar10 image using GradCAM algorithm
     
 ### Target:
     * Achieve atleast 87% accuracy on Test Dataset of Cifar10 using ResNet18 model
     * Proper modularisation of the code 
-    * Implement GradCAM algorithm in a separate Module and plot the Heatmaps the inference using GradCAM module implemented
+    * Implement GradCAM algorithm in a separate Module and plot the Heatmaps the inference using GradCAM 
+    module implemented
     
 ### Result:
     Trained Resnet18 model on Cifar10 dataset starting with:
