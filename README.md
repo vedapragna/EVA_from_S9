@@ -1,5 +1,5 @@
 # EVA_from_S9
-![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/sample_horse_heatmap.PNG)
+
 ### Experiment : 
     To Train ResNet18 Model on Cifar10 Dataset using Albumentation Augmentations and plot the class activation
     map of the Model inferenced on sample Cifar10 image using GradCAM algorithm
@@ -19,7 +19,7 @@
       * Final Training Accuracy = 90.28% Test Accuracy = 87.51%
       
      GradCam Plots of the Images inferenced using the trained model are as follows:
-
      
+![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/sample_horse_heatmap.PNG)    
     
     
