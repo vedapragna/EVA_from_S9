@@ -19,7 +19,9 @@
       * Final Training Accuracy = 90.28% Test Accuracy = 87.51%
       
      GradCam Plots of the Images inferenced using the trained model are as follows:
-![](./sample_truck_heatmap.png?raw=true "Title")
+     
+     ![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/sample_horse_heatmap.PNG)
+
      
     
     
