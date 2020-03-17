@@ -20,6 +20,7 @@
       
      GradCam Plots of the Images inferenced using the trained model are as follows:
      
-![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/sample_horse_heatmap.PNG)    
+![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/sample_horse_heatmap.PNG) 
+![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/sample_truck_heatmap.PNG)
     
     
