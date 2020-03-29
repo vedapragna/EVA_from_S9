@@ -21,10 +21,10 @@
     
 ### Training and Validation Accuracy Curves:
 
-![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/sample_truck_heatmap.PNG)
+![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/Outputs/Accuracy%20curves.png)
 
 
 ### GradCam Plots of few misclassified Images inferenced using the trained model are as follows:
      
-![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/Outputs/Accuracy%20curves.png) 
+![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/Outputs/Misclassified_Imgs_HeatMaps.png) 
 
