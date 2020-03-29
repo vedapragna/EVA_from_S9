@@ -19,12 +19,12 @@
       * Final Training Accuracy = 99.9% Test Accuracy = 90.7%
       
     
-    Training and Validation Accuracy Curves:
+### Training and Validation Accuracy Curves:
 
 ![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/sample_truck_heatmap.PNG)
 
-    
-    GradCam Plots of few misclassified Images inferenced using the trained model are as follows:
+
+### GradCam Plots of few misclassified Images inferenced using the trained model are as follows:
      
 ![](https://raw.githubusercontent.com/vedapragna/EVA_from_S9/master/Outputs/Accuracy%20curves.png) 
 
